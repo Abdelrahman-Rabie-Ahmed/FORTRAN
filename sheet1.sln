@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{9AE66E24-D2D9-4FF2-AB7F-CE79F20F2B8B}") = "sheet1", "sheet1\sheet1.ftn95p", "{D7CE929E-3D65-45D4-B1EA-A47F5A4BFBD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CheckMate|.NET = CheckMate|.NET
+		CheckMate|Win32 = CheckMate|Win32
+		Debug|.NET = Debug|.NET
+		Debug|Win32 = Debug|Win32
+		Release|.NET = Release|.NET
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7CE929E-3D65-45D4-B1EA-A47F5A4BFBD7}.CheckMate|.NET.ActiveCfg = CheckMate|.NET
+		{D7CE929E-3D65-45D4-B1EA-A47F5A4BFBD7}.CheckMate|.NET.Build.0 = CheckMate|.NET
+		{D7CE929E-3D65-45D4-B1EA-A47F5A4BFBD7}.CheckMate|Win32.ActiveCfg = CheckMate|Win32
+		{D7CE929E-3D65-45D4-B1EA-A47F5A4BFBD7}.CheckMate|Win32.Build.0 = CheckMate|Win32
+		{D7CE929E-3D65-45D4-B1EA-A47F5A4BFBD7}.Debug|.NET.ActiveCfg = Debug|.NET
+		{D7CE929E-3D65-45D4-B1EA-A47F5A4BFBD7}.Debug|.NET.Build.0 = Debug|.NET
+		{D7CE929E-3D65-45D4-B1EA-A47F5A4BFBD7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D7CE929E-3D65-45D4-B1EA-A47F5A4BFBD7}.Debug|Win32.Build.0 = Debug|Win32
+		{D7CE929E-3D65-45D4-B1EA-A47F5A4BFBD7}.Release|.NET.ActiveCfg = Release|.NET
+		{D7CE929E-3D65-45D4-B1EA-A47F5A4BFBD7}.Release|.NET.Build.0 = Release|.NET
+		{D7CE929E-3D65-45D4-B1EA-A47F5A4BFBD7}.Release|Win32.ActiveCfg = Release|Win32
+		{D7CE929E-3D65-45D4-B1EA-A47F5A4BFBD7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
